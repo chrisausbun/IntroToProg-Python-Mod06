@@ -1,0 +1,3 @@
+Clean Dishes,Medium
+Watch TV,Low
+Clean Car,Low
